@@ -1,4 +1,6 @@
-# @sarafhbk/react-audio-recorder
+# krajcik/react-audio-recorder
+
+> Warning: This is fork of [@sarafhbk/react-audio-recorder](https://github.com/sarafhbk/react-audio-recorder) which support react v17
 
 > This is a simple audio recorder package for react application using the javascript [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
 
